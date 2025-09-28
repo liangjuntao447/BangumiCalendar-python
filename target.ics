@@ -194,11 +194,11 @@ DTSTART;VALUE=DATE:20250928
 DTSTAMP;VALUE=DATE:20250928
 UID:514358-13-1080306
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこの街、ただの街にあらず。\n\n笑い
- あり プププッ\nラブあり キュンキュン\nホロリあり ホ
- ロリホロリ\n\n住人たちが織りなす\n予測不能な平凡ラ
- イフ！\n\nワクワクが連鎖する\nCITYへようこそ。\n\n\n\n[
- 中文简介]\n
+DESCRIPTION:「永远年轻」\n\n\nこの街、ただの街にあらず
+ 。\n\n笑いあり プププッ\nラブあり キュンキュン\nホロ
+ リあり ホロリホロリ\n\n住人たちが織りなす\n予測不能
+ な平凡ライフ！\n\nワクワクが連鎖する\nCITYへようこそ
+ 。\n\n\n\n[中文简介]\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -576,7 +576,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Witch 沉默魔女的秘密 13
-DTSTART;VALUE=DATE:20251004
+DTSTART;VALUE=DATE:20251003
 DTSTAMP;VALUE=DATE:20250928
 UID:506677-13-1080306
 CLASS:PUBLIC
